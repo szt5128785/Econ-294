@@ -1,13 +1,13 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Question 0
 
-ChenxiZhangAssignment2 <- list(
+ChenxiZhangAssignment3 <- list(
   firstName = "Chenxi",
   lastName  = "Zhang",
   email     = "czhang62@ucsc.edu",
   studentID = 1505034
 )
-print(ChenxiZhangAssignment2)
+print(ChenxiZhangAssignment3)
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Question 1
